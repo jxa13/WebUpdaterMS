@@ -6,3 +6,9 @@ My edited version of WebUpdater.ino to upload .bin files to your NodeMCU via web
     Original file (WebUpdater.ino) modified by Marco Santoru (January 2020)
     to display IP Address and MAC Address in Serial Monitor, to make it easier
     to upload without having to find the board's IP Address from your Modem/Router.
+
+### Serial Monitor
+![Serial Monitor](/screenshots/SerialMonitor.png)
+
+### Update Web Page
+![Update Web Page](/screenshots/webpage.png)
