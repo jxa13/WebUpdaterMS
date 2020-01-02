@@ -31,7 +31,7 @@ void setup(void) {
 
   while (WiFi.waitForConnectResult() != WL_CONNECTED) {
     WiFi.begin(ssid, password);
-    Serial.println("WiFi failed, retrying.");
+    Serial.println("WiFi failed, retrying. (are you using the correct SSID and Password?)");
   }
 
   httpUpdater.setup(&httpServer);
