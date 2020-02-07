@@ -8,8 +8,6 @@ My edited version of WebUpdater.ino to upload .bin files to your NodeMCU via web
     the board's IP Address from your Modem/Router.
 
 ### Screenshots
-Serial Monitor
 ![Serial Monitor](/screenshots/SerialMonitor.png)
 
-Update Web Page
 ![Update Web Page](/screenshots/webpage.png)
